@@ -31,7 +31,7 @@
                           <div class="footer-logo">
                             <a href="#">
                               <img
-                                src="~/assets/uploads/sites/59/2021/03/25_coming_soon_logo-1.png"
+                                src="~/assets/logo/logo.png"
                                 alt
                               />
                             </a>
