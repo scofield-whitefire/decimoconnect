@@ -9,7 +9,7 @@
           data-id="b25e62d"
           data-element_type="section"
           id="home"
-          data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
+          data-settings="{'stretch_section':'section-stretched'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div
@@ -90,7 +90,7 @@
           class="elementor-section elementor-top-section elementor-element elementor-element-e7d55d9 elementor-section-full_width elementor-section-height-default elementor-section-height-default false"
           data-id="e7d55d9"
           data-element_type="section"
-          data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+          data-settings="{'background_background':'classic'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div
@@ -145,7 +145,7 @@
           data-id="b91739b"
           data-element_type="section"
           id="Features"
-          data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+          data-settings="{'background_background':'classic'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div
@@ -304,7 +304,7 @@
           data-id="f313781"
           data-element_type="section"
           id="Live-Price"
-          data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+          data-settings="{'background_background':'classic'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div
@@ -460,7 +460,7 @@
           class="elementor-section elementor-top-section elementor-element elementor-element-5509f7b elementor-section-full_width elementor-section-height-default elementor-section-height-default false"
           data-id="5509f7b"
           data-element_type="section"
-          data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+          data-settings="{'background_background':'classic'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div
@@ -559,7 +559,7 @@
           class="elementor-section elementor-top-section elementor-element elementor-element-02b0e8d elementor-section-full_width elementor-section-height-default elementor-section-height-default false"
           data-id="02b0e8d"
           data-element_type="section"
-          data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+          data-settings="{'background_background':'classic'}"
         >
           <div class="elementor-container elementor-column-gap-no">
             <div

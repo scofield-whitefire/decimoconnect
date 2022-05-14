@@ -4,7 +4,7 @@
       class="elementor-section elementor-top-section elementor-element elementor-element-3a45baf2 elementor-section-full_width elementor-section-height-default elementor-section-height-default false"
       data-id="3a45baf2"
       data-element_type="section"
-      data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+      data-settings="{'background_background':'classic'}"
     >
       <div class="elementor-container elementor-column-gap-no">
         <div

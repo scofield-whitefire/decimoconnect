@@ -230,7 +230,7 @@ export default {
         data-id="f313781"
         data-element_type="section"
         id="Live-Price"
-        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+        data-settings="{'background_background':'classic'}"
       >
         <div class="elementor-container elementor-column-gap-no">
           <div

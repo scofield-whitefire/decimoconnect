@@ -5,7 +5,7 @@
         class="elementor-section elementor-top-section elementor-element elementor-element-5a372ee8 elementor-section-stretched elementor-hidden-tablet elementor-hidden-mobile appilo-sticky elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="5a372ee8"
         data-element_type="section"
-        data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"
+        data-settings="{'stretch_section':'section-stretched','background_background':'classic'}"
       >
         <div class="elementor-container elementor-column-gap-no">
           <div
@@ -151,7 +151,7 @@
         class="elementor-section elementor-top-section elementor-element elementor-element-6b96b3bf elementor-section-stretched elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default false"
         data-id="6b96b3bf"
         data-element_type="section"
-        data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"
+        data-settings="{'stretch_section':'section-stretched','background_background':'classic'}"
       >
         <div class="elementor-container elementor-column-gap-no">
           <div
