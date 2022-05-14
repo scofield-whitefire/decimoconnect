@@ -169,9 +169,7 @@
                 <div class="elementor-widget-container">
                   <div class="elementor-image">
                     <img
-                      width="117"
-                      height="39"
-                      src="~/assets/uploads/sites/59/2021/10/logo.png"
+                      width="250" height="39" src="~/assets/logo/logo.png"
                       class="attachment-full size-full"
                       alt="logo"
                       loading="lazy"
