@@ -1,5 +1,6 @@
 <template>
     <div>
+        <client-only>
         <div id="dia-preloader"></div>
         <Header />
         <div data-elementor-type="wp-page" data-elementor-id="3876" class="elementor elementor-3876">
@@ -733,6 +734,7 @@
         </div>
 
         <Footer />
+        </client-only>
     </div>
 </template>
 
