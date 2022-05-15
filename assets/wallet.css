@@ -1,0 +1,79 @@
+.category_films .cont, 
+.categories_creative .content {
+  position: relative;
+  background-color: #ffffff;
+  margin-top: -1rem;
+  margin-bottom: 6rem;
+  border-radius: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+@media (max-width: 767px) {
+    .category_films {
+      text-align: center;
+    }
+  }
+  .category_films .item {
+    width: 140px;
+    height: 150px;
+    border-radius: 12px;
+    display: inline-grid;
+    padding: 20px;
+    background-color: #022B36;
+    text-align: center;
+    -webkit-transition: 0.3s !important;
+    -moz-transition: 0.3s !important;
+    -o-transition: 0.3s !important;
+    -ms-transition: 0.3s !important;
+    transition: 0.3s !important;
+    margin: 0.45rem;
+  }
+  .category_films .item .tio {
+    font-size: 30px;
+    color: #3875f7;
+    display: block;
+    margin-bottom: 10px;
+    -webkit-transition: 0.3s !important;
+    -moz-transition: 0.3s !important;
+    -o-transition: 0.3s !important;
+    -ms-transition: 0.3s !important;
+    transition: 0.3s !important;
+  }
+  .category_films .item .content h3 {
+    font-size: 17px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-bottom: 5px;
+    -webkit-transition: 0.3s !important;
+    -moz-transition: 0.3s !important;
+    -o-transition: 0.3s !important;
+    -ms-transition: 0.3s !important;
+    transition: 0.3s !important;
+  }
+  .category_films .item .content p {
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 2px 0 2px 0;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 0;
+    -webkit-transition: 0.3s !important;
+    -moz-transition: 0.3s !important;
+    -o-transition: 0.3s !important;
+    -ms-transition: 0.3s !important;
+    transition: 0.3s !important;
+  }
+  .category_films .item:hover {
+    background-color: #ffffff;
+    border: 2px solid #02DFBF;
+  }
+  .category_films .item:hover .tio {
+    color: #f93542;
+  }
+  .category_films .item:hover .content h3 {
+    color: #000;
+  }
+  .category_films .item:hover .content p {
+    color: rgba(0, 0, 0, 0.7);
+  }

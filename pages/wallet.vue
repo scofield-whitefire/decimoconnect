@@ -1,13 +1,10 @@
 <template>
     <div>
-        <client-only>
-        <div id="dia-preloader"></div>
         <Header />
         <div data-elementor-type="wp-page" data-elementor-id="3876" class="elementor elementor-3876">
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-f313781 elementor-section-full_width elementor-section-height-default elementor-section-height-default false"
-                data-id="f313781" data-element_type="section" id="Live-Price"
-                data-settings="{'background_background':'classic'}">
+                data-id="f313781" data-element_type="section" id="Live-Price"">
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0cb4be0"
                         data-id="0cb4be0" data-element_type="column">
@@ -734,7 +731,6 @@
         </div>
 
         <Footer />
-        </client-only>
     </div>
 </template>
 

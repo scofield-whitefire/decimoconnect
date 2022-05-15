@@ -62,12 +62,12 @@
                           <li
                             class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                           >
-                            <a @click.prevent="ModelA" href="/apps" class>Apps</a>
+                            <a @click.prevent="ModelA" href="/" class>Apps</a>
                           </li>
                           <li
                             class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                           >
-                            <a href="/contact" @click.prevent="ModelB" class>Contact</a>
+                            <a href="/" @click.prevent="ModelB" class>Contact</a>
                           </li>
                         </ul>
                       </div>
@@ -100,12 +100,12 @@
                               <li
                                 class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                               >
-                                <a @click.prevent="ModelA" href="/apps" class>Apps</a>
+                                <a @click.prevent="ModelA" href="/" class>Apps</a>
                               </li>
                               <li
                                 class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                               >
-                                <a href="/contact" @click.prevent="ModelB" class>Contact</a>
+                                <a href="/" @click.prevent="ModelB" class>Contact</a>
                               </li>
                             </ul>
                           </div>
@@ -237,12 +237,12 @@
                           <li
                             class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                           >
-                            <a @click.prevent="ModelA" href="/apps" class>Apps</a>
+                            <a @click.prevent="ModelA" href="/" class>Apps</a>
                           </li>
                           <li
                             class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                           >
-                            <a href="/contact" @click.prevent="ModelB" class>Contact</a>
+                            <a href="/" @click.prevent="ModelB" class>Contact</a>
                           </li>
                         </ul>
                       </div>
@@ -275,12 +275,12 @@
                               <li
                                 class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                               >
-                                <a @click.prevent="ModelA" href="/apps" class>Apps</a>
+                                <a @click.prevent="ModelA" href="/" class>Apps</a>
                               </li>
                               <li
                                 class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"
                               >
-                                <a href="/contact" @click.prevent="ModelB" class>Contact</a>
+                                <a href="/" @click.prevent="ModelB" class>Contact</a>
                               </li>
                             </ul>
                           </div>

@@ -45,19 +45,19 @@
                             <h3 class="widget-title">Quick Links</h3>
                             <ul>
                               <li>
-                                <a @click.prevent="ModelA" href="/pp">Privacy Policy</a>
+                                <a @click.prevent="ModelA" href="/">Privacy Policy</a>
                               </li>
                               <li>
-                                <a @click.prevent="ModelA" href="/tns">Terms of Service</a>
+                                <a @click.prevent="ModelA" href="/">Terms of Service</a>
                               </li>
                               <li>
-                                <a @click.prevent="ModelA" href="/disclamier">Disclamier</a>
+                                <a @click.prevent="ModelA" href="/">Disclamier</a>
                               </li>
                               <li>
-                                <a @click.prevent="ModelA" href="/credits">Credits</a>
+                                <a @click.prevent="ModelA" href="/">Credits</a>
                               </li>
                               <li>
-                                <a @click.prevent="ModelA" href="/faq">Faq</a>
+                                <a @click.prevent="ModelA" href="/">Faq</a>
                               </li>
                             </ul>
                           </div>
